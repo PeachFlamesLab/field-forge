@@ -1,0 +1,6 @@
+[submodule "fieldforge-core"]
+	path = fieldforge-core
+	url = https://github.com/PeachFlamesLab/fieldforge-core.git
+[submodule "fieldforge-render"]
+	path = fieldforge-render
+	url = https://github.com/PeachFlamesLab/fieldforge-render.git
